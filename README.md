@@ -1,3 +1,3 @@
-# SQL_Data_Cleaning_Practice
+# Corporate Sustainability mandadte and fiscal compliant mandate
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
